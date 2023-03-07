@@ -3,6 +3,13 @@ cambios en la rama master para observar el funcionamiento de  y divergencias de 
 
 que chimba de curso 
 =======
+
+
+
+
+
+
+
 esta es una modificacion en archivo hola 
 
 
