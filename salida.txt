@@ -1,0 +1,8 @@
+total 8
+-rw-r--r--  1 juancho  staff     0B Jan 13 16:06 dot.txt
+-rw-r--r--  1 juancho  staff     0B Jan 13 16:06 espacio.text
+-rw-r--r--  1 juancho  staff     0B Jan 13 16:06 espacio2.txt
+-rw-r--r--@ 1 juancho  staff     0B Jan  6 11:40 file1
+-rw-r--r--  1 juancho  staff     0B Jan  6 10:08 file3
+-rw-r--r--  1 juancho  staff     0B Jan 14 20:12 salida.txt
+-rw-r--r--  1 juancho  staff     0B Jan 13 16:06 texto.txt
