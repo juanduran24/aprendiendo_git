@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 cambios en la rama master para observar el funcionamiento de  y divergencias de produccion a local 
 
 que chimba de curso 
+=======
+esta es una modificacion en archivo hola 
+
+
+con la fialidad de probar la creacion de la nueva rama 
+
+>>>>>>> rama_prueba
